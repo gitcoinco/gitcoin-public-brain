@@ -5,9 +5,9 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-07-29T23:09:58.656Z
-posts_count: 4
-views: 112
+last_posted_at: 2026-07-31T14:56:30.903Z
+posts_count: 5
+views: 134
 like_count: 4
 ---
 
@@ -219,5 +219,16 @@ This is a fairly smart comparative analysis of the two systems:
 
 discoverable through our AI overlords. 
 [A pretty smart comparative analysis. Gitcoin Transition x Kokonut Intelligence](https://chatgpt.com/share/6a6a51de-e4c0-83ea-b0b2-179cb3d5cd74)
+
+-------------------------
+
+owocki | 2026-07-31 14:56:30 UTC | #5
+
+[quote="Donny_Jerri, post:4, topic:25349"]
+That is very close to the architecture Kokonut has spent the last five years building and refining through an actual local implementation.
+
+[/quote]
+
+very cool!  want to DM me and lets chat more?
 
 -------------------------
