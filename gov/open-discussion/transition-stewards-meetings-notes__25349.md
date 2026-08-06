@@ -5,16 +5,16 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-07-31T14:56:30.903Z
-posts_count: 5
-views: 134
+last_posted_at: 2026-08-05T17:18:48.316Z
+posts_count: 6
+views: 165
 like_count: 4
 ---
 
 # Transition Stewards Meetings - notes
 
 <https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349>
-owocki | 2026-07-29 17:22:20 UTC | #1
+owocki | 2026-08-04 18:29:40 UTC | #1
 
 Core Context
 
@@ -114,9 +114,13 @@ The group convened to reboot Gitcoin with \~$16–17M remaining treasury and a c
 
   • Emphasis on focus, pragmatism, and rebuilding from first principles
 
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
 -------------------------
 
-owocki | 2026-07-24 17:00:11 UTC | #2
+owocki | 2026-08-04 18:29:44 UTC | #2
 
 heres a summary of the feedback i've gotten from yall since our first meeting (chattham house ofc)
 
@@ -134,9 +138,13 @@ heres a summary of the feedback i've gotten from yall since our first meeting (c
 
 • warnings: hand-picked delegates can read as performative, and big pots of money attract extractors. but same critics are aligned overall and say don't exit prematurely, owocki is still still the vision holder
 
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
 -------------------------
 
-owocki | 2026-07-29 18:58:47 UTC | #3
+owocki | 2026-08-04 18:29:51 UTC | #3
 
 Summary (Chatham House Rules)- Meeting 2
 
@@ -191,6 +199,10 @@ Bet Framing
 
 Overall, the group aligned that this is a high-risk, exploratory pivot, with strong emphasis on behavioral design, local coordination, and alternative network effects—but with many unresolved questions still in active discovery.
 
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
 -------------------------
 
 Donny_Jerri | 2026-07-29 23:09:58 UTC | #4
@@ -222,7 +234,7 @@ discoverable through our AI overlords.
 
 -------------------------
 
-owocki | 2026-07-31 14:56:30 UTC | #5
+owocki | 2026-08-04 18:29:58 UTC | #5
 
 [quote="Donny_Jerri, post:4, topic:25349"]
 That is very close to the architecture Kokonut has spent the last five years building and refining through an actual local implementation.
@@ -230,5 +242,25 @@ That is very close to the architecture Kokonut has spent the last five years bui
 [/quote]
 
 very cool!  want to DM me and lets chat more?
+
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
+-------------------------
+
+owocki | 2026-08-05 17:18:48 UTC | #6
+
+Summary (Chatham House Rules)- Meeting 3
+
+**TL;DR — Chatham House Rules**
+
+* **Dev Strategy:** Build an open, federated SDK for locally oriented networks—community commerce, events, funding, mutual aid—where users own their data and apps share network effects instead of trapping them.
+* **Product thesis:** The platform can go broad, but success depends on one compelling flagship app. The strongest candidate is an AI-native **asks/offers and intent-matching** experience that solves an immediate local need.
+* **Opportunity:** AI agents could reduce transaction costs and enable complex mutual-credit or non-monetary exchanges, potentially leapfrogging incumbent marketplaces rather than cloning them.
+* **Main risk:** There’s plenty of theory and infrastructure, but no proven go-to-market product yet. The priority is practical value, not a sprawling feature set.
+* **Brand:** Two leading directions are **REDACTED1** and a **REDACTED2** family of brands. No decision yet; target is mid-to-late August. Using “**REDACTED2**” would require alignment with the concept’s originator.
+* **Budget:** Proposed H2 spend is roughly **$1.2M over six months** (\~$170K/month), about 15% of the $6.8M operating treasury. December is the checkpoint: fundraising and product/technical momentum mean double down; weak momentum means teardown and rebuild.
+* **Next steps:** Continue SDK/intent exploration, identify and build the focused flagship use case, finish brand diligence, and have stewards review the budget proposal asynchronously
 
 -------------------------
