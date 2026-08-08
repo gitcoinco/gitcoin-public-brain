@@ -5,16 +5,16 @@ slug: trust-graphs-and-transitionary-stewards-weaving-the-next-era-of-gitcoin-go
 category: open-discussion
 url: https://gov.gitcoin.co/t/trust-graphs-and-transitionary-stewards-weaving-the-next-era-of-gitcoin-governance/25347
 created_at: 2026-07-17T21:18:28.918Z
-last_posted_at: 2026-07-19T17:13:51.949Z
-posts_count: 3
-views: 24
-like_count: 3
+last_posted_at: 2026-08-07T16:08:24.633Z
+posts_count: 4
+views: 84
+like_count: 4
 ---
 
 # Trust graphs and transitionary stewards: weaving the next era of gitcoin governance
 
 <https://gov.gitcoin.co/t/trust-graphs-and-transitionary-stewards-weaving-the-next-era-of-gitcoin-governance/25347>
-owocki | 2026-07-17 21:18:28 UTC | #1
+owocki | 2026-08-04 18:29:33 UTC | #1
 
 # trust graphs and transitionary stewards: weaving the next era of gitcoin governance
 
@@ -102,7 +102,11 @@ your tokens and your own delegation stay exactly as they are. my delegated weigh
 2. what would you want published first when the context window starts extitutionalising out?
 3. what’s missing?
 
-Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views ahead of the stewards’ review, not a decision or commitment by Gitcoin governance. Forward-looking items in it, like the october node zero timing, are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+*Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views ahead of the stewards’ review, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.*
+
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
 
 -------------------------
 
@@ -134,7 +138,7 @@ MconnectDAO | 2026-07-19 01:55:41 UTC | #2
 
 -------------------------
 
-owocki | 2026-07-19 17:13:51 UTC | #3
+owocki | 2026-08-04 18:29:37 UTC | #3
 
 thanks for the questions
 
@@ -187,6 +191,26 @@ i was planning on publishing notes from the transitionary stewards context windo
 
 gtc holders continue to have the ability to vote on snapshot/tally, just like before.  the trustgraph is supportive of this structure, not comptetitive..
 
-*Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views ahead of the stewards’ review, not a decision or commitment by Gitcoin governance. Forward-looking items in it, like the october node zero timing, are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.*
+*Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views ahead of the stewards’ review, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.*
+
+---
+
+Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
+-------------------------
+
+cecilerx1 | 2026-08-07 16:08:24 UTC | #4
+
+I measured something adjacent that might be useful here, and it cuts both ways on the sybil question.
+
+I ran a simulation of an invitation-based redistribution network — 500 real participants, empty wallets added as an attack. Each empty wallet captured 1.7× what an average account would, and the ratio held constant from 1 to 1,000 fake accounts: no threshold, no minimum viable size, three addresses already return 1% of the pot. About 215 fake addresses were enough to divert half the redistribution away from 500 real users. Past a majority of accounts, the genuinely poorest fifth dropped from 67% to 3%.
+
+But your point holds, and that's the interesting part: the attack disappeared entirely when I changed the destination. Once the allocation went to a vetted list of recipients rather than to accounts, an empty wallet captured nothing. The most severe flaw in my design vanished not because I fixed it, but because I changed who receives.
+
+So "no bonus to generating identity" seems exactly right as a defence — with one caveat worth naming explicitly. It protects the money. It does nothing against the failure mode you already listed as cliques and cartels, because that's real people coordinating, not fake ones. Sybil resistance and cartel resistance are different problems, and only one of them is solved by having nothing to capture.
+
+On your founder-seeded graph: I modelled invitation growth as R = k × p, invitations per member times acceptance rate. Below R = 1 the network freezes permanently at founders / (1 − R) — with 3 invitations and 25% acceptance you stop at 80 members forever, and no later effort recovers it. Worth watching early if you're starting from \~5 people.
+
+Scripts and full measurements are open, happy to be contradicted on any of it.
 
 -------------------------
