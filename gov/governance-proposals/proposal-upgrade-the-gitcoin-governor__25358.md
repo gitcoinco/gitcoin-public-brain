@@ -5,9 +5,9 @@ slug: proposal-upgrade-the-gitcoin-governor
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-upgrade-the-gitcoin-governor/25358
 created_at: 2026-08-08T14:39:38.343Z
-last_posted_at: 2026-08-08T14:39:38.433Z
-posts_count: 1
-views: 9
+last_posted_at: 2026-08-09T18:01:12.930Z
+posts_count: 2
+views: 14
 like_count: 0
 ---
 
@@ -69,5 +69,11 @@ A separate proposal to adopt the **Franchiser** for treasury delegation will fol
 **FOR** to upgrade the Gitcoin Governor
 **ABSTAIN** from voting on upgrading the Gitcoin Governor
 **AGAINST** upgrading the Gitcoin Governor
+
+-------------------------
+
+owocki | 2026-08-09 18:01:12 UTC | #2
+
+i am supportive of this proposal, pending verification that the upgrade will go smoothly technically.  will dive into the scopelift validation tech.
 
 -------------------------
