@@ -5,10 +5,10 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-10T04:12:12.696Z
-posts_count: 3
-views: 72
-like_count: 10
+last_posted_at: 2026-08-11T00:04:55.456Z
+posts_count: 4
+views: 85
+like_count: 12
 ---
 
 # [PROPOSAL]: Gitcoin DAO 2026 Budget Request: Second Tranche (Revised and Expanded)
@@ -259,5 +259,11 @@ Disclaimer: This post is for informative purposes only and is not financial advi
 ccerv1 | 2026-08-10 04:12:12 UTC | #3
 
 I am supportive of this budget after having been closely involved in recent steward discussions. It's a big pivot, and agree with Owocki that this is go big or go home time.
+
+-------------------------
+
+ashh | 2026-08-11 00:04:55 UTC | #4
+
+The expanded budget makes sense to me given the new direction and the work laid out. The clear milestones and reporting commitments also provide a concrete way to evaluate progress as we go. I’m supportive.
 
 -------------------------
