@@ -5,9 +5,9 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-11T00:04:55.456Z
-posts_count: 4
-views: 85
+last_posted_at: 2026-08-16T18:24:31.481Z
+posts_count: 5
+views: 111
 like_count: 12
 ---
 
@@ -265,5 +265,13 @@ I am supportive of this budget after having been closely involved in recent stew
 ashh | 2026-08-11 00:04:55 UTC | #4
 
 The expanded budget makes sense to me given the new direction and the work laid out. The clear milestones and reporting commitments also provide a concrete way to evaluate progress as we go. I’m supportive.
+
+-------------------------
+
+thedevanshmehta | 2026-08-16 18:24:31 UTC | #5
+
+I'm overall supportive of the large budget request due to Owocki's clarification that we need momentum on both increasing the matching pool and PMF by early 2027. Better to spend now and fail early then to keep a low burn but take longer to change course
+
+At a larger level I wonder whether the future will be interest-first social media (like Reddit where people organize around a shared interest) or a local first one as Gitcoin is betting the house on. I also wonder whether the GTM of a funding platform is the right method to pilot and get adoption of the network. Those are maybe the 2 other aspects I'd keep tabs on as the experiment progresses.
 
 -------------------------
