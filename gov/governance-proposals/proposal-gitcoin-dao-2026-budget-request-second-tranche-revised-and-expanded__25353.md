@@ -5,10 +5,10 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-16T18:24:31.481Z
-posts_count: 5
-views: 111
-like_count: 12
+last_posted_at: 2026-08-17T17:55:36.380Z
+posts_count: 7
+views: 128
+like_count: 13
 ---
 
 # [PROPOSAL]: Gitcoin DAO 2026 Budget Request: Second Tranche (Revised and Expanded)
@@ -273,5 +273,19 @@ thedevanshmehta | 2026-08-16 18:24:31 UTC | #5
 I'm overall supportive of the large budget request due to Owocki's clarification that we need momentum on both increasing the matching pool and PMF by early 2027. Better to spend now and fail early then to keep a low burn but take longer to change course
 
 At a larger level I wonder whether the future will be interest-first social media (like Reddit where people organize around a shared interest) or a local first one as Gitcoin is betting the house on. I also wonder whether the GTM of a funding platform is the right method to pilot and get adoption of the network. Those are maybe the 2 other aspects I'd keep tabs on as the experiment progresses.
+
+-------------------------
+
+exeunt | 2026-08-17 08:56:28 UTC | #6
+
+I'm supportive of the budget here and agree it is a pivotal moment. I think the product focus positions Gitcoin to provide common sense benefit to intersecting communities while leaving space for the experiments in participatory governance and mutualist economics that will help Ethereum rebuild the legitimacy we know it deserves.  
+
+As the product enters into development I hope it a) takes advantage of the rich ecology of projects that have been exploring the same territory (some of which are thriving, some of which are dead with valuable open repositories left in their wake), and b) takes the time to think through what reciprocity with those projects would look like (whether they are living or dead).
+
+-------------------------
+
+MathildaDV | 2026-08-17 17:55:36 UTC | #7
+
+This proposal is now live on https://snapshot.org/#/s:gitcoindao.eth/proposal/0xe6c789fc5c06e48e0e5716b1fc40ba160071ea1f00006a1dfc96e149c1e0cc3e
 
 -------------------------

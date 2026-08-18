@@ -5,10 +5,10 @@ slug: proposal-upgrade-the-gitcoin-governor
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-upgrade-the-gitcoin-governor/25358
 created_at: 2026-08-08T14:39:38.343Z
-last_posted_at: 2026-08-09T18:01:12.930Z
-posts_count: 2
-views: 14
-like_count: 0
+last_posted_at: 2026-08-17T19:46:51.489Z
+posts_count: 3
+views: 44
+like_count: 3
 ---
 
 # [Proposal]: Upgrade the Gitcoin Governor
@@ -75,5 +75,21 @@ A separate proposal to adopt the **Franchiser** for treasury delegation will fol
 owocki | 2026-08-09 18:01:12 UTC | #2
 
 i am supportive of this proposal, pending verification that the upgrade will go smoothly technically.  will dive into the scopelift validation tech.
+
+-------------------------
+
+bendi | 2026-08-17 19:46:51 UTC | #3
+
+Ben from ScopeLift here. We've completed the deployment and simulation testing of the governance upgrade process. You can find the contracts in the repository [here](https://github.com/ScopeLift/gitcoin-gov-upgrades) and the deployment logs and simulations in [this pull request](https://github.com/ScopeLift/gitcoin-gov-upgrades/pull/8).
+
+As you'll see if you dive in we have a suite of tests that exercise the full upgrade cycle, from proposal of the upgrade, votes, success/failure, execution, and subsequent governance proposals afterwards in the new system. These tests fork from mainnet and use real onchain state to ensure they represent what will happen in production.
+
+The test suite is modular. It runs using the actual deploy script, and now that the contract has actually been deployed, it *also* runs using the real deployed bytecode of the upgraded governor. When the upgrade proposal is put onchain, we'll execute another version of the test suite that uses the actual bytes of the onchain upgrade proposal.
+
+ScopeLift has executed governance deployments and upgrades for many DAOs, including Compound, ZKsync, PoolTogether, Radworks, and Gitcoin itself. We are confident this upgrade will function successfully and leave the DAO with a secure, functional governance system. 
+
+Because ScopeLift now operates [Cactus](https://tally.xyz) (formerly Tally), we will also make sure the new Governor is reflected immediately by the client upon successful execution of the upgrade.
+
+Thank you for trusting ScopeLift with this important work. We've been longtime collaborators with Gitcoin across its seasons. We look forward to continuing to work together in the future.
 
 -------------------------
