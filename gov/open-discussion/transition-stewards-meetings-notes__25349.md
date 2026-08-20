@@ -5,10 +5,10 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-05T17:18:48.316Z
-posts_count: 6
-views: 165
-like_count: 4
+last_posted_at: 2026-08-19T17:32:46.931Z
+posts_count: 7
+views: 218
+like_count: 5
 ---
 
 # Transition Stewards Meetings - notes
@@ -262,5 +262,27 @@ Summary (Chatham House Rules)- Meeting 3
 * **Brand:** Two leading directions are **REDACTED1** and a **REDACTED2** family of brands. No decision yet; target is mid-to-late August. Using “**REDACTED2**” would require alignment with the concept’s originator.
 * **Budget:** Proposed H2 spend is roughly **$1.2M over six months** (\~$170K/month), about 15% of the $6.8M operating treasury. December is the checkpoint: fundraising and product/technical momentum mean double down; weak momentum means teardown and rebuild.
 * **Next steps:** Continue SDK/intent exploration, identify and build the focused flagship use case, finish brand diligence, and have stewards review the budget proposal asynchronously
+
+-------------------------
+
+owocki | 2026-08-19 17:46:22 UTC | #7
+
+Summary (Chatham House Rules)- Meeting 4
+
+TL;DR from todays call:
+• Runway: Proposed $1.2M for six months, about 17% of the operational treasury. At the current burn, Gitcoin has roughly three years of runway. December 2026 is the checkpoint: reduce spending if traction is weak; double down if strong
+• Success by December: Complete several measurable pilots, turn the learnings into a credible fundraising story, and show movement toward major gifts. ADVISOR's network is viewed as a potential path to $10–30M in philanthropic capital
+• Funds stay separate: Approximately $6.8M operational treasury and $10M public-goods/matching pool. The matching pool remains governed by the community and dedicated to public-good purposes
+• Product strategy: Run at least three pilots that move attention, time, and spending from online/national systems toward local communities. First pilot, Beacon, targets affluent mothers in NODE ZERO and helps trusted circles coordinate local activities and recommendations
+• Primary risk: ADVISOR's vision is extremely broad, while the team is only about eight people. The near-term strategy is therefore to pick one achievable wedge; Kevin believes distribution—not building—is the bottleneck
+• Development model: Explore a T-shaped/open-source approach: the core team builds polished reference products, while outside developers experiment using an SDK/shared data layer. Strong community contributions could later become official product features
+• Major unresolved questions: Whether Beacon is the right first wedge; whether Gitcoin should lean closer to its crowdfunding competency; how to wind down the token and obligations to past investors; and what happens to the Gitcoin brand.
+• Brand direction: The localist consumer product will probably use a new, non-crypto brand. No  decision yet on whether Gitcoin continues separately, transfers to another public-goods organization, or winds down.
+
+Next steps
+• Julia to share the work-in-progress product hypothesis.
+• Team to send product notes to stewards.
+• Legal counsel continues iterating on structure.
+• Steward meetings likely shift to monthly.
 
 -------------------------
