@@ -5,9 +5,9 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-19T17:32:46.931Z
-posts_count: 7
-views: 218
+last_posted_at: 2026-08-20T18:34:38.894Z
+posts_count: 8
+views: 233
 like_count: 5
 ---
 
@@ -284,5 +284,109 @@ Next steps
 • Team to send product notes to stewards.
 • Legal counsel continues iterating on structure.
 • Steward meetings likely shift to monthly.
+
+-------------------------
+
+bear100 | 2026-08-20 18:34:38 UTC | #8
+
+# **Supporting local solutions with global implications**
+
+Hi everyone, I've been following the Gitcoin reboot conversations with a lot of interest, particularly the recent discussions around local solutions and what Gitcoin's next chapter could look like.
+
+So I wanted to take the opportunity to share an idea: **What if Gitcoin's role in a local-first future isn't primarily to build another product, but to help the people already building local solutions become more capable, connected, and successful?**
+
+This is obviously just a hypothesis, and I don't think I have the answer to what Gitcoin should become. But I've spent a fair amount of time working through a similar transformational process in another decentralized organization, with its own struggles around purpose, governance, community, and sustainability. And now I’m also experiencing the other side of the equation by working on a local solution myself.
+
+Both experiences have made me think a lot about what is missing between a promising idea and a solution that actually creates lasting impact. So I wanted to put this idea out there and see whether it resonates with others.
+
+## **The problem**
+
+There are already a lot of people trying to solve important problems in their communities, but many of these efforts are fragmented. A project might have a strong idea and a capable team, but struggle to find appropriate funding. Another might have solved a similar problem somewhere else, but the two teams never meet. Another might need technical or organizational support. Another might have something that works locally but no way of figuring out whether or how it could be replicated elsewhere.
+
+The problem isn't necessarily a lack of ideas. **It may be a lack of an ecosystem around the people who are trying to turn those ideas into real solutions.**
+
+A lot of the existing institutions aren't necessarily designed for this either. Traditional capital generally needs a path to financial return. Government funding can be slow and constrained by existing frameworks. Foundations can have their own institutional priorities and restrictions. Traditional grant programs often work best when a problem and its solution already fit into recognizable categories.
+
+But some of the most interesting local experiments may not fit neatly into any of those structures. They're too early, too unconventional, too cross-disciplinary, or simply trying to change the assumptions behind an existing system. Meanwhile, many of these projects are already out there. They're just operating largely in isolation.
+
+## **The opportunity**
+
+This makes me wonder if there is another way to interpret Gitcoin's local-first direction.
+
+Rather than asking, “**What product should Gitcoin build?”,** perhaps the question could be: “**How can Gitcoin make the ecosystem of people building local solutions more capable?”**
+
+Instead of becoming one more organization building a solution from scratch, Gitcoin could potentially become a place where promising local initiatives can be **discovered, learn, connect, receive support, and grow.** Not necessarily an accelerator in the traditional sense, and not necessarily a venture studio. Something different: an ecosystem built around helping promising solutions become real and helping successful approaches travel.
+
+The goal wouldn't be to maximize the financial return of a portfolio. It would be to maximize the real-world impact of the portfolio. That doesn't mean sustainability becomes irrelevant. The projects themselves need viable ways to continue creating impact, and Gitcoin would need a sustainable model for providing this kind of support as well. I don't have a definitive answer to what that model should look like, but I think it should be part of the experimentation.
+
+## **What could that look like?**
+
+I imagine something along the lines of **Discover > Curate > Support > Connect > Amplify > Replicate**
+
+**Discover.** Actively look for people and projects working on meaningful local problems. Not just wait for applications, but develop the ability to find interesting work that might otherwise remain invisible.
+
+**Curate.** Develop a fair and transparent way of identifying projects that are worth supporting. This is something I think would require real experimentation. I'm not suggesting that Gitcoin simply appoint a group of experts to decide which projects are “good.” There could be a combination of demonstrated need, local validation, evidence, community signal, team capability, early traction, potential for impact, and potential for learning or replication. Gitcoin's history with different allocation mechanisms could make this particularly interesting to explore.
+
+**Support.** And then provide more than funding. Depending on what a project needs, that could include funding, mentorship, technical expertise, organizational support, research, introductions, distribution and visibility, connections to potential users and partners, etc.
+
+Working on a local solution myself, I've found that money is important, but it's often not the only thing missing. Sometimes the most valuable thing is simply finding someone doing something adjacent and having a conversation. Sometimes it's an introduction to someone who can open a door. Sometimes it's another team that has already made the mistake you're about to make. Sometimes it's simply having people around you who understand the problem you're working on. That kind of support is difficult to find when everyone is operating independently.
+
+**Connect.** This could be one of the most valuable parts. If several teams in different parts of the world are working on related problems, they shouldn't have to rediscover everything independently. Gitcoin could help create the network through which knowledge, people, tools, capital, and opportunities move between them. A solution developed in one city might contain something useful for a team in a different one. The local context remains important, but the learning doesn't have to stay local.
+
+**Amplify.** There are also projects that simply need a push. They may have something genuinely valuable, but lack the audience, distribution capabilities, or connections to get it in front of the people who need it. Gitcoin already has a network and reach that could potentially help with this.
+
+**Replicate.** And eventually, when something works, the network can help ask: What exactly worked here, and under what conditions could it work somewhere else? That's where I see the “global implications” part becoming particularly interesting. Not every local solution should be replicated, but some will contain models, knowledge, or approaches that can travel.
+
+## **Why Gitcoin?**
+
+There are already accelerators, foundations, grantmakers, governments, and venture funds. So why Gitcoin?
+
+I think Gitcoin has a somewhat unusual combination of things: **Capital. Network. Reputation. Distribution. And, perhaps most importantly, a willingness to experiment with new ways of organizing and allocating resources.**
+
+Gitcoin has spent years experimenting with questions that are still unresolved: How do we identify valuable work? How do we allocate resources? How do we coordinate people who don't share the same organization? How do we create community-driven systems? How do we experiment with governance?
+
+Some of those experiments have worked better than others. I don't think the lesson is that Gitcoin has already figured these problems out. Perhaps the lesson is that Gitcoin has accumulated a lot of experience trying to figure them out. And it still has the resources and, seemingly, the willingness to keep experimenting. That combination feels relatively rare right now.
+
+## **A different kind of community**
+
+There's another reason I find this interesting. Instead of trying to create engagement around Gitcoin itself, what if the community formed around shared work?
+
+People building local solutions could support one another. Mentors could contribute expertise. Funders could contribute capital. Researchers could contribute knowledge. Local communities could contribute context and validation. Projects could share what they learn. Gitcoin could provide the connective tissue.
+
+The relationship becomes reciprocal. Gitcoin provides resources and support. Projects create real-world impact. Projects contribute knowledge and experience back into the network. The network makes everyone more capable. And the value of the ecosystem grows with every useful connection and every successful experiment.
+
+## **This could also create a different definition of success**
+
+The goal wouldn't necessarily be for Gitcoin to own the successful products. In fact, I think the opposite could be more powerful.
+
+Imagine Gitcoin supporting 10 projects, then 50, then 200. Gitcoin's success wouldn't be measured by whether Gitcoin itself built the winning product. It would be measured by whether **the network helped more good ideas become viable, more local solutions reach people, and more successful approaches travel between communities.**
+
+That feels like a potentially powerful way to think about “local solutions with global implications.” The global layer doesn't have to be one global product. It can be the movement of knowledge, capital, people, and successful models between local contexts.
+
+## **What I would test first**
+
+I wouldn't try to design the entire thing upfront. I'd test the hypothesis.
+
+For example, Gitcoin could identify a small group of promising projects working on local problems across different contexts and spend a few months understanding them deeply. What are they actually struggling with? What support have they tried to access? What do they need that isn't currently available? Can Gitcoin provide it? Do connections between these projects create value? Does the support actually improve their ability to execute? Can useful models or knowledge travel between them?
+
+If the answer is yes, then there's something worth building. If the answer is no, that's useful information too.
+
+The important thing would be to start from the **actual needs of the people doing the work**, rather than deciding in advance what they need.
+
+## **A final thought**
+
+I've seen firsthand how difficult it can be for decentralized organizations to navigate questions of purpose, governance, community, funding, and sustainability. And now, on the other side, I'm experiencing what it is like to actually try to build a local solution.
+
+That makes me wonder whether there is an opportunity for Gitcoin to occupy a different position altogether. Not necessarily **the organization that builds the solution,** but **the organization that makes it easier for the people building solutions to succeed.**
+
+A place where someone can show up with a promising idea, find the people they need, test whether the problem is real, get the resources and support required to move forward, learn from others, and eventually help someone else do the same.
+
+**A kind of collaborative playground for serious experimentation, with enough structure to make participation fair and accountable, but enough openness to allow unexpected things to emerge.**
+
+Maybe that's one way Gitcoin could turn “**local solutions with global implications”** from a vision into an actual organizational role.
+
+I'd be very interested in hearing where this resonates, where it doesn't, and what I'm missing. @owocki @MathildaDV 
+
+**P.S.** Apologies if this isn't the right post or thread for this. I wasn't sure where this kind of post would fit.
 
 -------------------------
