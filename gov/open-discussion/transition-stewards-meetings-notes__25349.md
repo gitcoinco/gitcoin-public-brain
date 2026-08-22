@@ -5,10 +5,10 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-20T18:34:38.894Z
-posts_count: 8
-views: 233
-like_count: 5
+last_posted_at: 2026-08-21T13:27:56.060Z
+posts_count: 9
+views: 244
+like_count: 10
 ---
 
 # Transition Stewards Meetings - notes
@@ -388,5 +388,27 @@ Maybe that's one way Gitcoin could turn “**local solutions with global implica
 I'd be very interested in hearing where this resonates, where it doesn't, and what I'm missing. @owocki @MathildaDV 
 
 **P.S.** Apologies if this isn't the right post or thread for this. I wasn't sure where this kind of post would fit.
+
+-------------------------
+
+owocki | 2026-08-21 13:27:56 UTC | #9
+
+thanks for writing this, and right thread.
+
+what grabs me isn't the framework, it's that you're on both sides at once: inside a decentralized org grinding through governance and sustainability (tec, i'm assuming), and currently trying to get a local thing off the ground yourself. most people theorizing about local-first haven't attempted it.
+
+you wrote that money matters but is often not the only thing missing. that's a great point.
+
+a few  questions:
+
+1. what are you building, where, and what did you go looking for and fail to find? 
+
+2. of the six, which one was your binding constraint? any org attempting all six does none of them well. curate and connect look like different companies to me.
+
+3. on curation. you're right that i don't want a panel of experts picking winners, but qf's known failure mode is rewarding whoever already has an audience, which is backwards for surfacing invisible local work. what broke the last time you watched someone attempt this?
+
+4. name five. if we ran your "understand a small cohort deeply" test starting in september, who's in it? the list tells us whether this population is findable at all, or whether discovery is itself the hard part.
+
+where we are: unresolved. we're leaning toward building one wedge well, on the theory that distribution is our bottleneck rather than building.
 
 -------------------------
