@@ -5,9 +5,9 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-17T17:55:36.380Z
-posts_count: 7
-views: 128
+last_posted_at: 2026-08-22T08:29:09.652Z
+posts_count: 8
+views: 187
 like_count: 13
 ---
 
@@ -287,5 +287,19 @@ As the product enters into development I hope it a) takes advantage of the rich 
 MathildaDV | 2026-08-17 17:55:36 UTC | #7
 
 This proposal is now live on https://snapshot.org/#/s:gitcoindao.eth/proposal/0xe6c789fc5c06e48e0e5716b1fc40ba160071ea1f00006a1dfc96e149c1e0cc3e
+
+-------------------------
+
+regenavocado | 2026-08-22 08:29:09 UTC | #8
+
+Offering my 2 cents as I've been both a long time Gitcoin user and recipient with funding that has led to direct real worl dadoption and impact helping to bring web3 to the world through our work at rifaisicilia.com and the broader ReFi ecosystem and especially with our flexible full stack [regenerative residency](https://rifaisicilia.com/en/residency) that aims to train and onboard "displaced professionals" with the tools needed for the new economy.
+
+This is directionally correct that people want to access and support their cosmo-local economy. My suggestion is that there is already plenty of latent partners in the existing gitcoin ecosystem that can be integrated on launch that have local brick and mortar business and digital apps that need a catalyst to finance and economically support on the ground activities. Priority should be taken to work with them. 
+
+A lot of regenerative businesses don't yet exist and there is a big financing gap. For people that want to support their local economy, also means investing and lending and buying from these new regenerative businesses. Gitcoin can be an aggregator and discoverability platform, but also a financing vehicle for regen startups that can provide a return to the Gitcoin treasury. This is what we are building at [growfi.dev](https://growfi.dev/) that allows for onchain crowdlending with yield paid from regenerative returns. We would be happy to work with the Gitcoin DAO, ecosystem, and app to help provide financing rails for the developing cosmo-local economy.
+
+Finally, Gitcoin is a global community, and if there is a coordinated launch, please be present in more places than just North America.
+
+Thanks for reading. You can find me at https://x.com/regenavocado
 
 -------------------------
