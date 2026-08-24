@@ -5,9 +5,9 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-22T08:29:09.652Z
-posts_count: 8
-views: 187
+last_posted_at: 2026-08-23T15:00:46.389Z
+posts_count: 9
+views: 200
 like_count: 13
 ---
 
@@ -301,5 +301,23 @@ A lot of regenerative businesses don't yet exist and there is a big financing ga
 Finally, Gitcoin is a global community, and if there is a coordinated launch, please be present in more places than just North America.
 
 Thanks for reading. You can find me at https://x.com/regenavocado
+
+-------------------------
+
+owocki | 2026-08-23 15:00:46 UTC | #9
+
+[quote="regenavocado, post:8, topic:25353"]
+My suggestion is that there is already plenty of latent partners in the existing gitcoin ecosystem that can be integrated on launch that have local brick and mortar business and digital apps that need a catalyst to finance and economically support on the ground activities. Priority should be taken to work with them.
+
+[/quote]
+
+i agree; we should not reinvent the wheel.
+
+[quote="regenavocado, post:8, topic:25353"]
+We would be happy to work with the Gitcoin DAO, ecosystem, and app to help provide financing rails for the developing cosmo-local economy.
+
+[/quote]
+
+happy to explore what this looks like
 
 -------------------------
