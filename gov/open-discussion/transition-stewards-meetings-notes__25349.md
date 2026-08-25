@@ -5,10 +5,10 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-21T13:27:56.060Z
-posts_count: 9
-views: 244
-like_count: 10
+last_posted_at: 2026-08-25T02:40:18.331Z
+posts_count: 10
+views: 264
+like_count: 11
 ---
 
 # Transition Stewards Meetings - notes
@@ -410,5 +410,41 @@ a few  questions:
 4. name five. if we ran your "understand a small cohort deeply" test starting in september, who's in it? the list tells us whether this population is findable at all, or whether discovery is itself the hard part.
 
 where we are: unresolved. we're leaning toward building one wedge well, on the theory that distribution is our bottleneck rather than building.
+
+-------------------------
+
+bear100 | 2026-08-25 02:40:18 UTC | #10
+
+Hey Kevin, thanks. And yes, TEC is the org I was referring to ;)
+
+**1.** On the local side, I’m currently working on a project called City/Sync. At the simplest level, we’re trying to make it easier for people to find meaningful ways to contribute to their local communities, and easier for local organizations to coordinate that participation. 
+
+What we’ve gone looking for and struggled to find is broader support around the work. Funding is obviously part of it, but so are the less tangible things previously mentioned: people who have worked on adjacent problems, potential partners, people who can give useful feedback, technical or organizational help, introductions, and just a place to learn from others going through similar things. 
+
+**2.** For us, support has probably been the binding constraint, with connection a close second. But I think this is also where I may not have explained the six clearly enough. I don’t think Gitcoin should try to operate six different functions. I see **curation and support as the two core functions**, with the other four largely enabling or emerging from those.
+
+**Discovery** supports curation: you need some way of finding interesting work in the first place. **Connection** is part of support: Gitcoin doesn’t necessarily need to provide every resource itself, but it can create the conditions for projects to find one another, share knowledge, collaborate, and support each other. **Amplification** can also be a form of support, using Gitcoin’s existing network and reach when that is what a project needs. And **replication** is less a function Gitcoin would provide than an outcome of having a network where useful knowledge and successful approaches can travel.
+
+I don't think the goal is for Gitcoin to build a giant organization that manually does all of this. It could instead focus on the things it can do best, while creating the conditions for a broader network to do the rest. In that sense, Gitcoin becomes more of the connective tissue and facilitator rather than the operator of every function. 
+
+**3.** I completely agree with the QF failure mode you mentioned. I saw a version of that firsthand through the TEC grants program. QF can be very good at surfacing community signal, but community signal and value aren't necessarily the same thing. That was part of why we experimented with things like TQF. But I don't think the answer here is about a novel mechanism. 
+
+The first layer, to me, is actually defining **what Gitcoin is looking for and what it isn’t**: the kinds of problems, values, principles, evidence, and potential impact that make something worth supporting. Then you can build a simple, fair and transparent curation process with clear criteria and guidelines around that, looking at things like demonstrated need, local validation, evidence of value, team capability, early traction, potential impact, and potential to generate learning. I think there’s already a lot of experience here, both within and beyond Web3, so I’d build on that to come up with an effective process to serve this purpose.
+
+**4.** I’d be careful about treating these five examples as proof that this population exists at a meaningful scale. I see them more as examples of the spectrum of things I’m talking about, and I think whether these projects are actually findable should itself be part of the experiment.
+
+A few that come to mind are [Permissioning the City](https://www.permissioning.city/), [Cornerstone Indicators](https://cornerstoneindicators.com/), [IAIdea](https://ialdea.org/), [Colorado Drivers Cooperative](https://www.coloradodrivers.coop/), and the [Relational Tech Project](https://relationaltechproject.org/). There are also smaller examples I’ve come across more informally, including people building tools for neighborhood cleanups, local environmental initiatives, mobility, mutual aid, and other very specific community needs, but with very little or zero visibility.
+
+Something I find interesting is the range of maturity. Some are more established projects, while others are basically one or two people experimenting with a solution. So I don’t think the opportunity is necessarily about finding a huge “market.” It’s about finding a group of high-quality projects solving problems that people actually experience and care about.
+
+I’ve also noticed a broader pattern that makes me think this is worth investigating: there are clearly huge numbers of local problems, there are people with the motivation to do something about them, and dramatically lower barriers to actually building something because of new software and AI tools. Someone who previously had a good idea but couldn't build it can now prototype a solution themselves. That doesn't mean those projects will be meaningful or survive, but it may make curation even more valuable.
+
+So yes, I think discovery itself is something to test: how hard is it actually to find these people, how much effort does it take, what proportion actually fit the criteria, can we distinguish genuinely promising work from people just building interesting things, and are there enough high-quality projects to form a meaningful cohort? 
+
+**5.** I think that makes sense, although I’m not totally sure what you mean by distribution here. Distribution of what, and to whom? Either way, I think the “one wedge well” approach is exactly why I'd treat this idea as a hypothesis rather than a proposal for what Gitcoin should become.
+
+The thesis, I guess, is: there may be a population of people building meaningful local solutions that is currently fragmented, difficult to discover, and poorly supported. Gitcoin may have an unusually good position to curate and support that work, while creating the conditions for a broader network to connect, learn, and amplify itself. 
+
+But I think the population, the need, and Gitcoin's ability to serve it all need to be tested rather than assumed. If these things turn out to be true, then I think there could be something pretty interesting here.
 
 -------------------------
