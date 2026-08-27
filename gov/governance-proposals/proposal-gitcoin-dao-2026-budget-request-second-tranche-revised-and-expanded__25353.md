@@ -5,10 +5,10 @@ slug: proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expand
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-gitcoin-dao-2026-budget-request-second-tranche-revised-and-expanded/25353
 created_at: 2026-08-04T17:27:38.077Z
-last_posted_at: 2026-08-25T16:29:46.944Z
-posts_count: 10
-views: 241
-like_count: 15
+last_posted_at: 2026-08-26T18:31:23.564Z
+posts_count: 11
+views: 260
+like_count: 17
 ---
 
 # [PROPOSAL]: Gitcoin DAO 2026 Budget Request: Second Tranche (Revised and Expanded)
@@ -325,5 +325,11 @@ happy to explore what this looks like
 MathildaDV | 2026-08-25 16:29:46 UTC | #10
 
 [Snapshot](https://snapshot.org/#/s:gitcoindao.eth/proposal/0xe6c789fc5c06e48e0e5716b1fc40ba160071ea1f00006a1dfc96e149c1e0cc3e) Proposal passed with 112% quorum. Once the funds are deposited into the EC multisig, I'll post the transaction hash.
+
+-------------------------
+
+MathildaDV | 2026-08-26 18:31:23 UTC | #11
+
+See all txs [here](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0xC23DA3Ca9300571B9CF43298228353cbb3E1b4c0#transactions), including a test and two transactions transferring funds into the EC multisig from the Emergency Treasury Multisig.
 
 -------------------------

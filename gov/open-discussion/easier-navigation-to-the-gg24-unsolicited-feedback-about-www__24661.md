@@ -5,9 +5,9 @@ slug: easier-navigation-to-the-gg24-unsolicited-feedback-about-www
 category: open-discussion
 url: https://gov.gitcoin.co/t/easier-navigation-to-the-gg24-unsolicited-feedback-about-www/24661
 created_at: 2025-10-11T23:47:04.532Z
-last_posted_at: 2025-10-13T15:59:07.861Z
-posts_count: 2
-views: 679
+last_posted_at: 2026-08-26T18:24:31.038Z
+posts_count: 3
+views: 714
 like_count: 1
 ---
 
@@ -50,5 +50,11 @@ Contact: "Mars Robertson" pretty much everywhere, @marsXR on Telegram
 MathildaDV | 2025-10-13 15:59:07 UTC | #2
 
 Thanks for the feedback. This has been updated!
+
+-------------------------
+
+free2ride19 | 2026-08-26 18:24:31 UTC | #3
+
+Please help me get out of trouble with hardware components and support for electronics and PCBA development, component sourcing, product and mechanical design.
 
 -------------------------

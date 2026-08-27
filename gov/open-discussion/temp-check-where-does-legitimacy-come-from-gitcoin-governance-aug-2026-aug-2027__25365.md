@@ -5,10 +5,10 @@ slug: temp-check-where-does-legitimacy-come-from-gitcoin-governance-aug-2026-aug
 category: open-discussion
 url: https://gov.gitcoin.co/t/temp-check-where-does-legitimacy-come-from-gitcoin-governance-aug-2026-aug-2027/25365
 created_at: 2026-08-25T17:52:04.923Z
-last_posted_at: 2026-08-25T17:52:05.018Z
-posts_count: 1
-views: 12
-like_count: 1
+last_posted_at: 2026-08-26T18:23:44.148Z
+posts_count: 2
+views: 27
+like_count: 3
 ---
 
 # TEMP CHECK - where does legitimacy come from? gitcoin governance, aug 2026 → aug 2027
@@ -65,5 +65,11 @@ the goal for aug 26 → aug 27 isn't "decentralize gitcoin." the goal is to earn
 ---
 
 Disclaimer: This post is for informative purposes only and is not financial advice. This post reflects my personal views, not a decision or commitment by Gitcoin governance. Forward-looking items in it are targets, not commitments. The information in these posts is subject to change as we continue learning. This post may contain estimates, may contain errors, and is provided on a best-effort basis. DYOR, do not make any financial decisions based on these posts.
+
+-------------------------
+
+free2ride19 | 2026-08-26 18:23:44 UTC | #2
+
+Please help with support electronics and PCBA development, component sourcing, product and mechanical design.
 
 -------------------------

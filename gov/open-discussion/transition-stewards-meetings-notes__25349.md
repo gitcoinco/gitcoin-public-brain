@@ -5,10 +5,10 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-25T02:40:18.331Z
-posts_count: 10
-views: 264
-like_count: 11
+last_posted_at: 2026-08-26T23:40:24.781Z
+posts_count: 11
+views: 289
+like_count: 15
 ---
 
 # Transition Stewards Meetings - notes
@@ -446,5 +446,45 @@ So yes, I think discovery itself is something to test: how hard is it actually t
 The thesis, I guess, is: there may be a population of people building meaningful local solutions that is currently fragmented, difficult to discover, and poorly supported. Gitcoin may have an unusually good position to curate and support that work, while creating the conditions for a broader network to connect, learn, and amplify itself. 
 
 But I think the population, the need, and Gitcoin's ability to serve it all need to be tested rather than assumed. If these things turn out to be true, then I think there could be something pretty interesting here.
+
+-------------------------
+
+Oba-One | 2026-08-26 23:40:24 UTC | #11
+
+Jumping in with some reflections.
+
+Gitcoin has been a Schelling point in Ethereum and through my lens the regenerative ecosystem, for years now. It has catalyzed a lot of growth across a very diverse set of projects globally. I have been involved as a grantee and as a grant operator curating projects for rounds, and beyond receiving or allocating capital, it has been a discovery lens. It is how I found like minded projects, adjacent work and things filling gaps we were not filling ourselves. Projects, not just products, because it ranges from people building apps to people building communities.
+
+I have watched the transitions. Grants focused, then more general and funding what matters, then dedicated domains with sharper focus, and more recently the move toward AI and accelerating the technologies that protect against its downsides. And over these past few months, the shift toward localism and deploying these tools in real physical communities rather than only digital ones. That shift is where a lot of my work sits.
+
+This is where I think @bear100 point lands. There is a lot already being actively built by projects Gitcoin supported and helped sprout and rebuilding it from scratch would be a loss.
+
+If I compare Gitcoin to nature, the tension is whether Gitcoin is the tree, the thing that visibly grows and produces abundance or the root system, the mycelium that is not as present and does not get the credit but provides the substrate everything else grows in. My read is that Gitcoin has been the mycelium for years, sometimes spreading too far and at a cost to its own health. What has been missing is a strong bidirectional flow. The things Gitcoin helps grow being able to flourish and send something back and the nutrients Gitcoin spreads moving between projects and communities instead of only outward.
+
+I have been on both sides of that, as a receiver and operator. The work I keep coming back to is connecting place based communities with emerging technology in a way that fits their context and gives them sovereignty and ownership. That is the part of blockchains I care about and with AI arriving it matters more, not less.
+
+Capital in this space has been dwindling, but there is still a lot of untapped potential in connection. Workshops, seminars, bringing together the projects Gitcoin has supported over the years. Much of that costs very little and it moves Gitcoin's vision forward.
+
+I also understand the wariness. In the DAO space there has been grift, bad actors and loud voices setting the agenda. That is real and I can see how it leads to a more insular posture. The pendulum has swung from very decentralized and community driven to something more centralized, and I think many of the reasons for that are valid. My concern is balance. If it goes too insular and cuts off from the mycelium network Gitcoin grew, you get duplication, more competition over the little that is left, and a competitiveness that is not useful. We are not trying to compete with each other. We are trying to compete with old systems that are deeply rooted and invasive.
+
+I come to this with bias, so I will name it.
+
+I have been building Green Goods, a local-first impact reporting and funding platform. Local initiatives report their work in a verified way onchain, coordinate around the commitments they make to address their own needs, and access a lower risk path to capital where funders keep their principal and the yield does the work, alongside direct funding, Hypercerts, and revenue generating tokens like Revnets. We have been at this for a couple of years, and this past year it has really taken shape on very little funding.
+
+https://greengoods.app
+
+What would help is not only financial support. Visibility, being in a cohort where we are learning alongside others, mentorship from people who have built businesses and products. That is where network effects come from and we built Green Goods to be interoperable for exactly that reason: Gardens conviction voting, Octant V2 vaults, Hats Protocol, Karma GAP, Unlock Protocol, Hypercerts, and Ethereum Attestation Service. Every integration keeps those projects growing.
+
+The other project I am part of is Tech & Sun, building solar hubs at Nigerian universities. Providing reliable power and internet and a space where students get grounded in regenerative practice they can apply in their own lives and communities. Green Goods is the substrate there, giving that work visibility to both the community and funders, and coordinating it across hubs.
+
+https://techandsun.com
+
+The thing I care most about is how capital flows between those two worlds. And by capital I mean not only financial but cultural, social, intellectual, material. There is enormous energy and willingness to build in Nigeria and across the global south. There are people in established economies who are apart of a diaspora or have roots somewhere and want to invest back home, but have no transparency or trust to cross on. Build that bridge and it runs both ways. Financial and social capital goes one direction, cultural, intellectual, and personal connection comes back.
+
+I see a lot of potential in Gitcoin taking the local-first approach and being that substrate. Incubating projects like Green Goods, Tech & Sun, City Sync and others so they take root, and in more traditional terms, being the seed investor that gets in early.
+
+I like the projects directory on the site. Grant rounds were open enough that they created a lot of noise, but the directory captures the tools and infrastructure actually being built across the space. If Gitcoin curated the best of that, the stewards and trust graph could look at those projects as Lego pieces and see which ones fit together well. Then it becomes clear what Gitcoin provides and what Gitcoin would want in return. Then you make the bet.
+
+I will close there. Gitcoin is at a crossroads. If it can identify the bright spots, the projects with potential and the people who have been consistent about showing up and building, and then create the substrate for them to flourish and grow with Gitcoin rather than apart from it, I think a lot of the work many of us have been doing for years finally reaches the point of adoption and integration in the places we have been building in all along.
 
 -------------------------
