@@ -5,10 +5,10 @@ slug: introducing-stewards-governance
 category: governancevision
 url: https://gov.gitcoin.co/t/introducing-stewards-governance/41
 created_at: 2021-05-06T21:25:45.443Z
-last_posted_at: 2026-08-18T17:49:13.708Z
-posts_count: 298
-views: 78151
-like_count: 1625
+last_posted_at: 2026-08-27T23:11:36.388Z
+posts_count: 299
+views: 78315
+like_count: 1628
 ---
 
 # Introducing Stewards Governance

@@ -5,10 +5,10 @@ slug: transition-stewards-meetings-notes
 category: open-discussion
 url: https://gov.gitcoin.co/t/transition-stewards-meetings-notes/25349
 created_at: 2026-07-21T18:39:24.731Z
-last_posted_at: 2026-08-26T23:40:24.781Z
-posts_count: 11
-views: 289
-like_count: 15
+last_posted_at: 2026-08-28T08:22:54.065Z
+posts_count: 13
+views: 314
+like_count: 19
 ---
 
 # Transition Stewards Meetings - notes
@@ -486,5 +486,246 @@ I see a lot of potential in Gitcoin taking the local-first approach and being th
 I like the projects directory on the site. Grant rounds were open enough that they created a lot of noise, but the directory captures the tools and infrastructure actually being built across the space. If Gitcoin curated the best of that, the stewards and trust graph could look at those projects as Lego pieces and see which ones fit together well. Then it becomes clear what Gitcoin provides and what Gitcoin would want in return. Then you make the bet.
 
 I will close there. Gitcoin is at a crossroads. If it can identify the bright spots, the projects with potential and the people who have been consistent about showing up and building, and then create the substrate for them to flourish and grow with Gitcoin rather than apart from it, I think a lot of the work many of us have been doing for years finally reaches the point of adoption and integration in the places we have been building in all along.
+
+-------------------------
+
+owocki | 2026-08-27 20:38:25 UTC | #12
+
+Summary (Chatham House Rules)- Meeting 5
+
+# Gitcoin Stewards Q&A — Chatham House Rule Notes
+
+## Purpose
+
+The group discussed Gitcoin’s proposed next chapter: a foundation focused on building **pro-human, pro-local technology** and renegotiating society’s relationship with technology. The working brand is **Techne**, drawing on the Greek root of “technology” and “technique.”
+
+The ambition is not to reject technology, but to use it to make people more capable, sovereign, connected, creative, and engaged in their physical communities.
+
+## Why now
+
+Participants described a convergence of conditions:
+
+* Digital platforms increasingly concentrate power, wealth, attention, and data.
+* AI is accelerating worker de-skilling and weakening human craft and agency.
+* Existing social networks optimize for extraction and engagement rather than human flourishing.
+* Gitcoin has accumulated financial capital, technical capability, and a trusted network that could support a different model.
+* Independent funding creates room to explore without immediately adopting venture-capital incentives.
+
+The core thesis is that network effects can potentially be redirected toward commons and public-good outcomes rather than monopoly extraction.
+
+## Localism and translocalism
+
+The group challenged any simple framing of “local good, global bad.”
+
+Local communities can provide embodied relationships, meaningful work, mutual aid, civic participation, and a stronger sense of belonging. But they can also be parochial, exclusionary, unequal, or unsafe. For some people, especially those marginalized by their immediate surroundings, internet communities are liberating.
+
+The emerging direction is therefore **translocal**:
+
+* Strengthen local relationships and economies.
+* Preserve access to global communities and knowledge.
+* Help communities exchange practices and solutions.
+* Connect local networks so they can coordinate at regional, national, or global scales.
+* Design for many different kinds of locality rather than assuming a wealthy US city is the universal model.
+
+## Product hypothesis
+
+The product should use digital technology to move people **from the screen into meaningful participation in the world**, rather than attempting to maximize time spent online.
+
+Potential functions discussed included:
+
+* Discovering nearby people, activities, services, and opportunities.
+* Matching residents with volunteer work and civic participation.
+* Supporting local commerce without replicating advertising-driven extraction.
+* Making community needs and unmet demand legible.
+* Helping municipalities and funders understand what is and is not working.
+* Sharing successful local practices across communities.
+* Connecting local participation with governance.
+
+A recurring point was that individual-purpose platforms often suffer from weak network effects. Combining social, commercial, civic, volunteer, and governance functions may create substantially more value than treating each as a separate product.
+
+## Lessons from earlier local platforms
+
+The team is reviewing the “graveyard” of previous attempts rather than treating this as a novel category.
+
+Likely failure modes include:
+
+* Extractive advertising and engagement-based business models.
+* Insufficient activity or inventory within a locality.
+* Replicating fear, conflict, and surveillance dynamics.
+* Expanding before establishing community trust.
+* Focusing on only one use case.
+* Assuming localism is naturally equitable or prosocial.
+* Failing to distinguish the interests of residents, businesses, governments, and funders.
+
+A heavily moderated, community-specific platform with high adoption was raised as a useful reference point. Its commitment to serving one place, rather than maximizing geographic expansion, may be central to its success.
+
+The proposed effort would differ by combining multiple community functions with a shared data layer and a non-extractive institutional model.
+
+## Technology, attention, and human needs
+
+Participants compared today’s digital information environment to highly processed food: engineered to exploit human reward systems while failing to provide genuine nourishment.
+
+The discussion distinguished between:
+
+* **Pseudo-satisfiers:** scrolling and other behaviors that temporarily stimulate a need while increasing craving and lowering well-being.
+* **Deeper satisfiers:** embodied relationships, nature, meaningful work, creativity, community, and shared experience.
+
+Simply encouraging people to put down their phones is unlikely to work if their offline environments remain lonely, inaccessible, or unfulfilling. The product must help create viable alternatives that meet the underlying need.
+
+At the same time, the group warned against romanticizing pre-digital life. Older local institutions also used social and psychological mechanisms to enforce hierarchy and conformity. The challenge is to use modern behavioral and algorithmic tools transparently, collectively, and in service of user-chosen outcomes—not to retreat naively from technology.
+
+## Economic and philanthropic model
+
+The initiative is expected to be structured as a nonprofit foundation.
+
+There may be a significant opportunity around **localized philanthropy**:
+
+* Major funders are increasingly interested in place-based work.
+* Local funders often do not know what comparable communities have tried or learned.
+* They want better ways to identify and share effective practices.
+* They prefer interventions that can become economically durable rather than requiring permanent subsidy.
+* Philanthropic capital could complement market and government funding where neither works alone.
+
+A platform that improves local economies, coordinates capital, and transfers learning between communities could therefore serve residents, municipalities, businesses, and funders simultaneously.
+
+The organization reportedly has approximately three years of existing runway, with the intent to attract additional philanthropic capital and build something durable.
+
+## Governance
+
+Over time, governance could be redistributed through commons-based structures as contributors demonstrate value and the institutional design matures.
+
+Trust graphs and related mechanisms were discussed as possible foundations for assigning voting power, distributing incentives, and eventually decentralizing authority. The sequence matters:
+
+1. Consolidate enough authority to execute.
+2. Develop the product and institutional model.
+3. Identify meaningful contributions and stakeholders.
+4. Progressively decentralize through mechanisms suited to the actual network.
+
+## Important unresolved questions
+
+* What is the initial user and the first indispensable use case?
+* How will the product achieve sufficient local density?
+* What specifically distinguishes it from unsuccessful hyperlocal platforms?
+* Which functions must be bundled to create a strong attractor?
+* How will moderation, safety, and community norms work?
+* How will the system avoid reproducing local inequality and exclusion?
+* What data will be collected, who controls it, and how will it be governed?
+* How can algorithms guide people toward offline activity without becoming paternalistic or manipulative?
+* What are the value propositions for residents, local businesses, governments, and philanthropists?
+* How should local autonomy interact with cross-community learning?
+* What milestones should trigger progressive decentralization?
+* How openly should the organization frame itself as a challenge to incumbent attention platforms?
+
+## Follow-ups
+
+* Produce and circulate a written strategy covering:
+  * Comparable projects and prior failures.
+  * How those lessons shape the design.
+  * The unique value proposition.
+  * Value to each stakeholder group.
+* Give participants space to leave detailed written comments before the next discussion.
+* Schedule a longer working session; the group felt the core questions require substantially more than a one-hour call.
+* Convene a focused conversation on DAOs, trust graphs, and decentralized governance.
+* Continue collecting open questions and offers of help through the steward group.
+* Connect people working on cognitive security and related research.
+* Explore how the cognitive-security work already being supported can inform the product’s approach to attention and behavioral design.
+
+## Bottom line
+
+The strongest version of the idea is not “another local social network.” It is shared infrastructure for healthier local life: combining discovery, relationships, commerce, civic participation, philanthropy, governance, and learning between communities.
+
+Its success will depend on whether the organization can turn that broad theory into a focused initial product, avoid extractive incentives, and create enough real-world value that people willingly redirect attention from incumbent platforms toward their communities.
+
+-------------------------
+
+Donny_Jerri | 2026-08-28 08:22:54 UTC | #13
+
+I keep reading through the unresolved questions here and having basically the same reaction:
+
+I think we already have a framework for asking most of them.  
+
+Not necessarily the answers. Those have to come from the people in each place. But a way of getting to the answers without rebuilding the coordination structure every time.
+
+This is what I have been trying to point toward with [Kokonut](https://kokonut.network/).
+
+Take the first question: who is this actually for, and what problem are we trying to solve?
+
+Before choosing an app feature, the [Kokonut Framework](https://kokonut.network/) starts by mapping the people involved, what each of them needs and can contribute, the problem being addressed, what value we expect to create, what risks sit around it, what kinds of capital are available, what an acceptable outcome looks like, and what evidence would tell us it actually happened.
+
+Then you build.
+
+Run the questions in this post through that process, and a lot starts to become clearer.
+
+**Local density:** don’t create the locality from scratch. Map what is already there and connect it.
+
+[Partiful](https://partiful.com/) and [Meetup](https://www.meetup.com/) already do pieces of discovery and real-world gathering. [Localize](https://localize.community/) is being built around discovering and connecting into local food and farmers. [Wild Minds](https://www.wildmindscommunity.com/) is already building a network around land and community projects, connecting people, skills, opportunities, and project leaders.
+
+Wild Minds is particularly interesting here because they already went through part of the discovery process Gitcoin is discussing. They started by creating standalone resources, then learned that what people actually wanted was the people, connections, support, and opportunities around the work. They changed the product around that demand. The [Wild Minds Network](https://www.wildmindscommunity.com/network) now has thousands of members and dozens of project leaders, with [One Tree Farm](https://www.wildmindscommunity.com/one-tree-farm) acting as a real-world testing ground whose lessons can be carried into other local projects.
+
+The desire is already there.
+
+That means these things should not only be treated as products to study. Some could become integrations, partners, sources of existing local inventory, or straight BD opportunities for Techne. If Localize already has the farmer and food layer, why rebuild it? If Wild Minds already has project leaders and people actively looking for places to contribute, why recreate that graph from zero?
+
+Fold in what fits. Partner where it makes sense. Build only what is missing.
+
+**Why would this be different from another failed hyperlocal app?** Because the product isn’t the feed. The product is useful things happening in the real world. Time online is almost the wrong metric. A volunteer showing up, a local purchase, useful work created, a community need filled, or a project completed—those are the things worth measuring.
+
+**Local autonomy vs. learning across communities:** this one is especially close to Kokonut. Use a common enough data structure that Monte Plata can learn from Texas without either one having to become the other. Same Framework, completely different local reality.
+
+Hyper-local, at hyper scale.
+
+Wild Minds is already moving in this direction as well. One Tree Farm is their local proof, but the point is not to reproduce One Tree Farm everywhere. It is to carry the systems, lessons, successes, and mistakes outward so other projects can build their own version.
+
+That is translocalism in practice.
+
+**Governance:** start with enough authority to get something done, document contribution and outcomes, then move authority outward as people demonstrate useful participation and the local governance system earns the ability to carry it.
+
+**Data:** keep the underlying data as local and private as it needs to be, but turn the outcomes we choose to make public into inspectable evidence and attestations. An attestation does not make something true. It gives us a persistent record of who claimed what, based on which evidence, and when.
+
+This is also where Kokonut Intelligence starts taking a lot of work off the humans.
+
+If we have hundreds of local actors, needs, opportunities, funding sources, businesses, events, and projects, nobody should be manually trying to hold that entire graph in their head.
+
+The intelligence layer can ingest the information coming from the local node and connected systems, identify missing evidence, surface unmet needs and underused resources, compare outcomes across localities, and help match the right type of capital to the right kind of work.
+
+The human beings still make the decisions.
+
+The machines make the complexity easier to see.
+
+And I think there is another important point here around capital.
+
+Philanthropy is one form of funding, but it shouldn’t have to carry an entire local economy. A useful intervention might combine philanthropic money, municipal funding, community commitments, commercial revenue, investment, research capital, equipment, labor, and knowledge.
+
+If the resulting activity produces trusted, verifiable operating data, suddenly more of those capital sources have something they can actually diligence.
+
+That is where these existing networks become interesting again from a BD perspective too.
+
+A network of farmers is not just users. It can become a route for agricultural technology, research, financing, equipment, local buyers, and institutional capital.
+
+A network like Wild Minds is not just a community. It is already a graph of people trying to build real land-based projects, with actual needs around capital, infrastructure, skills, planning, and execution.
+
+Once those needs and outcomes become structured and verifiable, entirely different partners can enter the picture.
+
+That is how we eventually get from “please fund this good thing” to “here is what this community is capable of producing, here is what it needs, here is what happened last time, and here are the forms of capital that actually fit.”
+
+The thing I would really like to do next is take the full Techne hypothesis and actually run it through the Framework instead of continuing to talk about whether they sound similar.
+
+Define what Gitcoin wants and doesn’t want.
+
+Map every stakeholder.
+
+Map the value and capital.
+
+Map the existing tools and networks so we don’t rebuild Partiful, Meetup, Localize, Wild Minds, Gitcoin, or anything else unnecessarily.
+
+Then look at them as possible integrations, partners, and BD channels—not only competitors or reference points.
+
+Define the first outcomes and evidence standards.
+
+Then see what is actually missing.
+
+My suspicion is that we would discover that considerably less needs to be built than it currently appears, while the network Techne could potentially connect is considerably larger than it currently appears.
+
+Which would be a pretty good first result.
 
 -------------------------
