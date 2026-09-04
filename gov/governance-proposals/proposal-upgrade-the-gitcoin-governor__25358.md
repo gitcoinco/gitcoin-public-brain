@@ -5,10 +5,10 @@ slug: proposal-upgrade-the-gitcoin-governor
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-upgrade-the-gitcoin-governor/25358
 created_at: 2026-08-08T14:39:38.343Z
-last_posted_at: 2026-08-17T19:46:51.489Z
-posts_count: 3
-views: 44
-like_count: 3
+last_posted_at: 2026-09-03T19:22:33.402Z
+posts_count: 4
+views: 104
+like_count: 7
 ---
 
 # [Proposal]: Upgrade the Gitcoin Governor
@@ -91,5 +91,11 @@ ScopeLift has executed governance deployments and upgrades for many DAOs, includ
 Because ScopeLift now operates [Cactus](https://tally.xyz) (formerly Tally), we will also make sure the new Governor is reflected immediately by the client upon successful execution of the upgrade.
 
 Thank you for trusting ScopeLift with this important work. We've been longtime collaborators with Gitcoin across its seasons. We look forward to continuing to work together in the future.
+
+-------------------------
+
+auryn | 2026-09-03 19:22:33 UTC | #4
+
+Late replying here. But yes I'm generally supportive of this and have a great deal of respect for the scopelift team. Gitcoin will be in good hands on Cactus.
 
 -------------------------
