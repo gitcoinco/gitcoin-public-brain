@@ -5,10 +5,10 @@ slug: proposal-upgrade-the-gitcoin-governor
 category: governance-proposals
 url: https://gov.gitcoin.co/t/proposal-upgrade-the-gitcoin-governor/25358
 created_at: 2026-08-08T14:39:38.343Z
-last_posted_at: 2026-09-03T19:22:33.402Z
-posts_count: 4
-views: 104
-like_count: 7
+last_posted_at: 2026-09-04T21:30:28.780Z
+posts_count: 5
+views: 118
+like_count: 8
 ---
 
 # [Proposal]: Upgrade the Gitcoin Governor
@@ -97,5 +97,13 @@ Thank you for trusting ScopeLift with this important work. We've been longtime c
 auryn | 2026-09-03 19:22:33 UTC | #4
 
 Late replying here. But yes I'm generally supportive of this and have a great deal of respect for the scopelift team. Gitcoin will be in good hands on Cactus.
+
+-------------------------
+
+JakeHartnell | 2026-09-04 21:30:28 UTC | #5
+
+Glad to see this happening. This is really good to do. Had my agents look over the referenced code and everything checks out.
+
++1 from me.
 
 -------------------------
